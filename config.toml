@@ -1,3 +1,4 @@
 baseURL = 'https://greencoffee888.github.io'
-languageCode = 'zh-cn'
+languageCode = 'zh-CN'
+publishDir = 'docs'
 title = '测试博客网站'
